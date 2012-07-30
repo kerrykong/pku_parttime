@@ -1,1 +1,11 @@
 F:\work\兼职\parttime\人寿\人寿\bin\Debug\人寿.exe.config
+E:\Pesonal\part-time\pku_parttime\人寿\bin\Debug\人寿.exe.config
+E:\Pesonal\part-time\pku_parttime\人寿\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Pesonal\part-time\pku_parttime\人寿\obj\x86\Debug\人寿.F_Login.resources
+E:\Pesonal\part-time\pku_parttime\人寿\obj\x86\Debug\人寿.Properties.Resources.resources
+E:\Pesonal\part-time\pku_parttime\人寿\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Pesonal\part-time\pku_parttime\人寿\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Pesonal\part-time\pku_parttime\人寿\bin\Debug\人寿.exe
+E:\Pesonal\part-time\pku_parttime\人寿\bin\Debug\人寿.pdb
+E:\Pesonal\part-time\pku_parttime\人寿\obj\x86\Debug\人寿.exe
+E:\Pesonal\part-time\pku_parttime\人寿\obj\x86\Debug\人寿.pdb

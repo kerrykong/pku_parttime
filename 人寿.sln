@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "人寿", "人寿\人寿.csproj", "{9B255904-76EC-4CC1-9E0B-C9CF0E5E43E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR", "人寿\HR.csproj", "{9B255904-76EC-4CC1-9E0B-C9CF0E5E43E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
